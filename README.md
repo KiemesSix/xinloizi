@@ -2,8 +2,8 @@
 ## Gửi người mà bạn muốn
 
 Liên lạc: 
-[![Facebook](https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg)](https://www.facebook.com/cgphamviet)
-[![Instagram](https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg)](https://www.tiktok.com/cgphamviet)
+[![Facebook](https://www.facebook.com/cgphamviet)
+[![Instagram](https://www.tiktok.com/cgphamviet)
 
 Mở file config.js sửa nội dung theo mẫu
 ```

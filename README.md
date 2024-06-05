@@ -2,7 +2,7 @@
 ## Gửi người mà bạn muốn
 
 Liên lạc: 
-[![Facebook](https://www.facebook.com/cgphamviet)
+[![Facebook](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/240px-Instagram_logo_2022.svg.png)](https://www.facebook.com/cgphamviet)
 [![Instagram](https://www.tiktok.com/cgphamviet)
 
 Mở file config.js sửa nội dung theo mẫu

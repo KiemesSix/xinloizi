@@ -3,7 +3,7 @@
 
 Liên lạc: 
 [Facebook](https://www.facebook.com/cgphamviet)
-[![Instagram](https://www.tiktok.com/cgphamviet)
+[Instagram](https://www.tiktok.com/cgphamviet)
 
 Mở file config.js sửa nội dung theo mẫu
 ```

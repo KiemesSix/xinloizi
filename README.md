@@ -1,30 +1,27 @@
-# Tặng Crush
-## _Một điều nho nhỏ tỏ tình với crush_
+# Văn mẫu
+## Gửi người mà bạn muốn
 
 Liên lạc: 
-[![Facebook](https://i.imgur.com/GRqy96ts.jpg)](https://www.facebook.com/nam.nodemy)
-[![Tiktok](https://i.imgur.com/Nbfl1E7t.jpg)](https://www.tiktok.com/@manindev)
+[![Facebook](https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg)](https://www.facebook.com/cgphamviet)
+[![Instagram](https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg)](https://www.tiktok.com/cgphamviet)
 
 Mở file config.js sửa nội dung theo mẫu
 ```
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    introTitle: 'Zi à!',
+    introDesc: ` Anh ước rằng, em chỉ đang giận anh, một chút hờn giận nho nhỏ mà thôi… Để rồi khi anh nói “anh xin lỗi”, em sẽ lại mỉm cười. Đừng giận anh nữa nhé!`,
+    btnIntro: 'Kệ anh',
+    title: 'Anh sai rồi huhu',
+    desc: 'Tha thứ cho anh nhé!',
+    btnYes: 'Vâng',
+    btnNo: 'Không',
+    question:'Tại sao em lại giận anh?',
+    btnReply: 'Gửi',
+    reply: 'Em tha lỗi cho anh rồi mà',
+    mess: 'Cảm ơn em đã tha thứ =)))',
+    messDesc: 'Nhắn tin lại cho anh liền nha, anh sẽ gọi.',
+    btnAccept: 'Nhắn tin',
+    messLink: 'http://instagram.com/cgphamviet' //
 }
 ```
 
